@@ -131,7 +131,7 @@ export default function App() {
                 "Hai! Aku Sharron Maddeline Portofolio ini nunjukin hal-hal tentang diriku. Thanks udah lihat!"
               </p>
             </div>
-            <img className="love" src="https://i.ibb.co.com/8LTppbPn/iconsoft.jpg"/>
+            <img className="love" src="download.gif"/>
           </div>
           <div className="skills" aria-hidden>
             <span className="skill">Tri Ratna School</span>  
